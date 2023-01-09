@@ -61,3 +61,5 @@ https://github.com/Hummer4gb/8.1-lesson1/network
 5. Измените ту же самую строчку в файле test.sh.
 6. Сделайте коммит и пуш.
 7. Сделайте мердж ветки conflict в основную ветку и решите конфликт так, чтобы в результате в файле оказался код из ветки conflict.
+
+https://github.com/Hummer4gb/8.1-lesson1/network
